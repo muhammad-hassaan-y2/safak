@@ -12,3 +12,4 @@
     * Separate layout for my blog section
     * separate folder for components and sections
     * Added error and loader
+    
