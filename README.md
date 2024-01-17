@@ -22,7 +22,7 @@ EternalFrame is an elegantly designed Next.js theme tailored for wedding photogr
 ## Project Structure
 
 - src/: Main directory containing the source files.
-   -(routes)/: Each route of the application corresponds to a unique directory.
+   - (routes)/: Each route of the application corresponds to a unique directory.
      - about/, films/, contact/, etc.: Directories containing page-specific components within a _components subfolder.
    - components/: Reusable components used across various parts of the application.
    - lib/: Shared utilities and helper functions.
