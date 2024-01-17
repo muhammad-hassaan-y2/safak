@@ -1,9 +1,9 @@
 # Project Setup
 
    * Used pnpm to create next project
-     ```
+    """
      pnpm create next-app@latest
-     ```
+    """
 
 ## Created the routes
      * Have my auth routes in route groups
